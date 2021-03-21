@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="logo">Logo</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_button_text">Sign up</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="facebook">facebook</string>
+    <string name="google">Google</string>
+    <string name="sign_up_with_phone">Sign up with Phone</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="sign_in">sign in</string>
+    <string name="creating_account">Creating Account</string>
+    <string name="log_in">Logging in</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_to_contacts">Back to Contacts</string>
+    <string name="video_call">Video call</string>
+    <string name="menu_options">menu options</string>
+    <string name="voice_call">voice call</string>
+    <string name="send_message_button">send message button</string>
+    <string name="enter_your_message_hint">Enter your message</string>
+    <string name="enter_person_s_email_hint">Enter Email</string>
+    <string name="add_friend_button">Add Friend</string>
+</resources>
